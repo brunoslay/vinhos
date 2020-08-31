@@ -1,1 +1,3 @@
-# Rode no terminal ` node index.js` e seja feliz :D
+# Rode no terminal
+01.  `node install`
+02. e depois para rodar o app `node index.js`
