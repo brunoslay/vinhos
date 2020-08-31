@@ -1,0 +1,1 @@
+# Rode no terminal ` node index.js` e seja feliz :D
